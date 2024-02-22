@@ -1,7 +1,0 @@
-Environment Variables command
-Command	Description	
-echo $VARIABLE	To display value of a variable
-env	Displays all environment variables
-VARIABLE_NAME= variable_value	Create a new variable
-Unset	Remove a variable
-export Variable=value	To set value of an environment variable
